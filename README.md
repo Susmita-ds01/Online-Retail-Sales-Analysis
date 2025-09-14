@@ -1,8 +1,4 @@
-## Project Title
 
-**UCI Online Retail Sales & Customer Insights Dashboard**
-
----
 
 ## 1. Project Overview
 
