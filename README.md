@@ -1,4 +1,9 @@
+# UCI Online Retail Sales & Customer Insights Dashboard
 
+An interactive Power BI dashboard built using the UCI Online Retail dataset.  
+
+## 🚀 Live Dashboard Demo  
+👉 [Click here to view the interactive report](https://app.powerbi.com/view?r=eyJrIjoiY2E0YWI3NTMtYzgyZi00ZTljLWJlMDctNzJkNzc2YzMyYzQ0IiwidCI6ImIxNzAzMTg1LTJkOTktNDBlNS04NmUxLTNhMjIzMTJmYWY3NiJ9)  
 
 ## 1. Project Overview
 
